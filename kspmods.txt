@@ -132,3 +132,4 @@ WaterSounds
 
 Dependencies not mentioned.
 Version 1.12.1 (steam)
+MANUAL INSTALL
