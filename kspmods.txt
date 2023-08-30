@@ -1,0 +1,134 @@
+[SECONDARY]
+AntennaHelper
+AviationLights
+CameraTools
+Chatterer
+ExtraplanetaryLaunchpads
+FShangarExtender
+HullCameraVDS
+KerbalConstructionTime
+KSP Recall
+KerbalFoundries
+Kerbaltek (HyperEdit)
+KRASH
+KSPWheel
+MechJeb2
+ModularLaunchPads
+ModuleManagerWatchDog
+RationalHydroDynamics
+RationalResources
+SpaceDust
+StageRecovery
+Trajectories
+TweakScale
+VesselMover
+WasdEditorCam
+Ground Effect DLL
+DeepFreeze Continued
+Docking Port Alignment Indicator
+VesselViewer
+PersistentRotationUpgraded
+KerbalAttachmentSystem
+SurfaceMountedLights
+Reviva IVA
+ASET Props, Avionics, MK1 Cockpit/Lander/MakingHistory
+DEIVA Extension
+CrewManifest
+Waypoint Manager
+Texture Recolourer + addons for all listed mods
+Kerbealistic Docking
+EvaFollower
+PersistentTrails
+Tweakscale
+SimpleRepaint
+BDarmory
+
+[MAIN]
+PersistentThrust
+AtmosphereAutopilot
+CommunityCategoryKit/ResourcePack/Techtree
+HideEmptyTechTreeNodes
+CraftManager
+ConformalDecals
+JanitorsCloset
+KerbalEngineer
+Kerbalism + KerbalismConfig + KerbalismSystemHeat
+KerbalKonstructs (1.8.6.0) + Ordinary Konstruction CO pack + Tundra Space Center 
+KSPCommunityFixes
+KSPRescuePodFix
+PreciseManeuver
+SCANSat
+RasterPropMonitor
+FreeIVA
+KSC Extended
+ContractConfigurator
+EasyVesselSwitch
+Kronometer
+Contract Configurator
+OPM
+All DLC
+Rescale 2.5x
+
+
+
+
+
+
+[PARTS]
+AirplanePlus
+B9 ProceduralWings 
+Benjee10 MMSEV + sharedassets (bundled)
+Benjee10 Stowaway
+Benjee10 Suits
+CryoEngines + CryoTanks
+FarFutureTechnologies
+KerbalAtomics
+Atomic Age (recycled parts)
+MarkIVSystem
+NearFutureConstruction + Electrical + Exploration + Props + Propulsion +Solar + Spacecraft + Aeronautics + Launch Vehicles
+OPT
+ReStock + Plus
+StationPartsExpansion
+Kerbal Planetary Base Systems
+Feline Utility Rovers
+Mk2 Stockalike Expansion
+SunkWorks
+ExtraDockingPorts
+BDArmory
+HeatControl
+MEV
+
+
+
+[GRAPHICS] 
+BoulderCo (EVE Config)
+EVE Volumetric
+DistantObject
+EngineLightRelit
+EnvironmentalVisualEnhancements
+Parallax 2.0 + Textures + LifelessEve 
+PlanetShine
+PoodsSkyboxes (edited)
+RealPlume
+ReentryParticleEffectRenewed
+Scatterer
+SigmaSkybox
+SmokeScreen
+SunflaresOfMaar UrsaMinor Stock + PatchedConfig
+Waterfall + WaterfallRestock
+TUFX
+TextureReplacer
+Shaddy
+OPM Parallax
+ZTheme (ksp dark mode) + HUDReplacear
+TURD
+
+
+[SOUND]
+RocketSoundEnhancement
+WaterSounds
+
+
+
+Dependencies not mentioned.
+Version 1.12.1 (steam)
