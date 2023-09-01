@@ -80,7 +80,7 @@ B9 ProceduralWings
 Benjee10 MMSEV + sharedassets (bundled)
 Benjee10 Stowaway
 Benjee10 Suits
-CryoEngines + CryoTanks
+CryoEngines + CryoTanks + CryoEngines Extensions 
 FarFutureTechnologies
 KerbalAtomics
 Atomic Age (recycled parts)
