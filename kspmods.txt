@@ -122,7 +122,7 @@ Shaddy
 OPM Parallax
 ZTheme (ksp dark mode) + HUDReplacear
 TURD
-
+BetterDres 
 
 [SOUND]
 RocketSoundEnhancement
